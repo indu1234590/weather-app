@@ -42,10 +42,5 @@ This weather application was developed as part of a hands-on project to integrat
 
 ---
 
-## 🚀 How to Run Locally
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
 
